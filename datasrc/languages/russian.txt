@@ -18,16 +18,16 @@ Command is either unknown or you have given a blank command without any paramete
 == Команда неизвестна или вы ввели пустую команду без параметров.
 
 You can't join the spectators while you are in survival
-== Вы не можете присоединиться к зрителям, пока находитесь в режиме выживания
+== Вы не можете присоединиться к зрителям, пока находитесь в мини-игре "Survival"
 
 Timeout code has to be at least 8 characters long, make sure to use a safe code.
 == Код тайм-аута должен содержать не менее 8 символов, убедитесь, что используете безопасный код.
 
 You will now see all tees on this server, no matter the distance
-== Теперь вы будете видеть всех персонажей на этом сервере, независимо от расстояния
+== Теперь вы будете видеть всех игроков на этом сервере, независимо от расстояния
 
 You will no longer see all tees on this server
-== Вы больше не будете видеть всех персонажей на этом сервере
+== Вы больше не будете видеть всех игроков на этом сервере
 
 Score Format
 == Формат счёта
@@ -42,7 +42,7 @@ Accounts are used to save your stats.
 == Аккаунты используются для сохранения вашей статистики.
 
 You can farm money and buy things in the shop, kill tees and get points.
-== Вы можете фармить деньги и покупать вещи в магазине, убивать персонажей и получать очки.
+== Вы можете фармить деньги и покупать вещи в магазине, убивать игроков и получать очки.
 
 These stats will be saved inside of your account.
 == Эта статистика будет сохранена в вашем аккаунте.
@@ -70,7 +70,7 @@ not bought
 == не куплено
 
 Portal Rifle
-== Портальная винтовка
+== Портальная пушка
 
 Contact
 == Контакт
@@ -136,7 +136,7 @@ Spooky ghost (gun) and portal blocker (hammer) can be enabled like the following
 == Жуткий призрак (пистолет) и блокиратор порталов (молот) можно включить следующим образом:
 
 Hold TAB (or other scoreboard key) and during that fire your weapon two times.
-== Удерживайте TAB (или другую клавишу таблицы результатов) и во время этого дважды выстрелите из оружия.
+== Удерживайте TAB (или другую клавишу для показа таблицы результатов) и во время этого дважды выстрелите из оружия.
 
 With VIP Classic you get an XP and money boost of '+2' per second, aswell as access to the following commands:
 == С VIP Classic вы получаете бонус к опыту и деньгам '+2' в секунду, а также доступ к следующим командам:
@@ -148,10 +148,10 @@ Additionally to that you can enter the VIP+ room to farm safely there, aswell as
 == Дополнительно к этому вы можете войти в комнату VIP+, чтобы безопасно фармить там, а также получаете доступ к следующим командам:
 
 Spawn Weapons
-== Оружие для спавна
+== Оружие на спавне
 
 You can buy spawn weapons in the shop.
-== Вы можете купить оружие для спавна в магазине.
+== Вы можете купить оружие на спавна в магазине.
 
 You will have the bought weapon on spawn.
 == У вас будет купленное оружие при спавне.
@@ -163,7 +163,7 @@ Each bullet costs 600.000 money.
 == Каждый патрон стоит 600.000 денег.
 
 Your Spawn Weapons
-== Ваше оружие для спавна
+== Ваше оружие на спавне
 
 Spawn shotgun bullets
 == Патроны для дробовика при спавне
@@ -172,7 +172,7 @@ Spawn grenade bullets
 == Патроны для гранатомёта при спавне
 
 Spawn rifle bullets
-== Патроны для винтовки при спавне
+== Патроны для пушки при спавне
 
 Accounts are not supported on this server
 == Аккаунты не поддерживаются на этом сервере
@@ -211,7 +211,7 @@ You can't logout while being searched by the police
 == Вы не можете выйти из системы, пока вас разыскивает полиция
 
 Kill logout is activated, kill within %d seconds to logout
-== Активирован выход через убийство, убейте в течение %d секунд, чтобы выйти
+== Активирован выход после убийства, умрите в течение %d секунд, чтобы выйти
 
 You are not verified, please enter your security pin using '/pin'
 == Вы не подтверждены, пожалуйста, введите ваш защитный PIN-код, используя '/pin'
@@ -289,25 +289,25 @@ You can't pay nothing
 == Вы не можете перевести ничего
 
 You paid %lld money from your bank account to '%s'
-== Вы перевели %lld денег с вашего банковского счета игроку '%s'
+== Вы перевели %lld монет с вашего банковского счета игроку '%s'
 
 You got %lld money to your bank account from '%s'
-== Вы получили %lld денег на ваш банковский счет от '%s'
+== Вы получили %lld монет на ваш банковский счет от '%s'
 
 Invalid argument
-== Недопустимый аргумент
+== Недопустимое значение
 
 You can't drop nothing
 == Вы не можете выбросить ничего
 
 You can't drop money bags over 100.000
-== Вы не можете выбросить мешки с деньгами больше 100.000
+== Вы не можете выбросить мешок с деньгами больше чем 100.000 монет
 
 You don't have enough money in your wallet
 == У вас недостаточно денег в кошельке
 
 Drop money: '/money drop <amount>'
-== Выбросить деньги: '/money drop <количество>'
+== Выбросить мешок с деньгами: '/money drop <количество>'
 
 You can't drop more than 100 portal batteries at the same time
 == Вы не можете выбросить более 100 портальных батарей одновременно
@@ -316,13 +316,13 @@ You don't have enough portal batteries
 == У вас недостаточно портальных батарей
 
 You can collect portal batteries in the map, which lets you use the portal rifle.
-== Вы можете собирать портальные батареи на карте, что позволяет использовать портальную винтовку.
+== Вы можете собирать портальные батареи на карте, что позволяет использовать портальную пушку.
 
 The portal rifle can shoot two portals at cursor position, which tees, flags and weapons can use to travel between them.
-== Портальная винтовка может выстрелить два портала в позиции курсора, которые персонажи, флаги и оружие могут использовать для перемещения между ними.
+== Портальная пушка может создаьь два портала в позиции курсора, между которыми игроки, флаги и оружие могут перемещаться
 
 Your portal stats
-== Ваша портальная статистика
+== Ваша статискика портальной пушки
 
 Drop portal battery: '/portal drop <amount>'
 == Выбросить портальную батарею: '/portal drop <количество>'
@@ -346,7 +346,7 @@ You invited '%s' to the room
 == Вы пригласили '%s' в комнату
 
 You can't kick others without a key
-== Вы не можете выгнать других без ключа
+== Вы не можете выгнать других игроков не имея без ключа
 
 You can't kick a player with a key
 == Вы не можете выгнать игрока с ключом
@@ -367,16 +367,16 @@ You can't use this command in minigames
 == Вы не можете использовать эту команду в мини-играх
 
 You can't use this command while being arrested
-== Вы не можете использовать эту команду, пока находитесь под арестом
+== Вы не можете использовать эту команду, пока находитесь в розыске
 
 You can't use this command while frozen
 == Вы не можете использовать эту команду, пока заморожены
 
 You lost 50.000 money for teleporting to spawn
-== Вы потеряли 50.000 денег за телепортацию на спавн
+== Вы потратили 50.000 монет за телепортацию на спавн
 
 Plot subcommands
-== Подкоманды участка
+== Подкоманды плота
 
 For detailed info, type '/plot help <command>'
 == Для подробной информации введите '/plot help <команда>'
@@ -385,7 +385,7 @@ Hold SPACE while editing for more control infos
 == Удерживайте ПРОБЕЛ во время редактирования для получения дополнительной информации об управлении
 
 Clears all objects of your plot
-== Очищает все объекты вашего участка
+== Удаляет все объекты вашего плота
 
 Starts an auction for your plot, everyone can buy it using the buy command
 == Начинает аукцион на ваш участок, каждый может купить его с помощью команды buy
