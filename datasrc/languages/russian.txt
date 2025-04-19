@@ -301,7 +301,7 @@ You can't drop nothing
 == Вы не можете выбросить ничего
 
 You can't drop money bags over 100.000
-== Вы не можете выбросить мешок с деньгами больше чем 100.000 монет
+== Вы не можете выбросить больше чем 100.000 монет
 
 You don't have enough money in your wallet
 == У вас недостаточно денег в кошельке
@@ -319,7 +319,7 @@ You can collect portal batteries in the map, which lets you use the portal rifle
 == Вы можете собирать портальные батареи на карте, что позволяет использовать портальную пушку.
 
 The portal rifle can shoot two portals at cursor position, which tees, flags and weapons can use to travel between them.
-== Портальная пушка может создаьь два портала в позиции курсора, между которыми игроки, флаги и оружие могут перемещаться
+== Портальная пушка может создать два портала в позиции курсора, между которыми игроки, флаги и оружие могут перемещаться
 
 Your portal stats
 == Ваша статискика портальной пушки
@@ -346,7 +346,7 @@ You invited '%s' to the room
 == Вы пригласили '%s' в комнату
 
 You can't kick others without a key
-== Вы не можете выгнать других игроков не имея без ключа
+== Вы не можете выгнать других игроков не имея ключа
 
 You can't kick a player with a key
 == Вы не можете выгнать игрока с ключом
@@ -385,55 +385,55 @@ Hold SPACE while editing for more control infos
 == Удерживайте ПРОБЕЛ во время редактирования для получения дополнительной информации об управлении
 
 Clears all objects of your plot
-== Удаляет все объекты вашего плота
+== Удаляет все объекты с вашего плота
 
 Starts an auction for your plot, everyone can buy it using the buy command
-== Начинает аукцион на ваш участок, каждый может купить его с помощью команды buy
+== Начинает аукцион на ваш плот, каждый может купить его с помощью команды /buy
 
 Buys a plot if the given player is running a plot auction
-== Покупает участок, если указанный игрок проводит аукцион участка
+== Покупает плот, если указанный игрок проводит аукцион плота
 
 Lets you respawn at your plot
-== Позволяет возродиться на вашем участке
+== Позволяет возродиться на вашем плоте
 
 Cancels the current running auction on your plot
-== Отменяет текущий аукцион на вашем участке
+== Отменяет текущий аукцион на ваш плот
 
 Swaps plot with given player
-== Обменивает участок с указанным игроком
+== Обменивает плот с указанным игроком
 
 Shows a list with all currently open plot auctions and swap offers
-== Показывает список всех текущих открытых аукционов участков и предложений обмена
+== Показывает список всех текущих открытых аукционов плотов и предложений обмена
 
 This player doesn't exists
 == Этот игрок не существует
 
 You can't buy your own plot
-== Вы не можете купить свой собственный участок
+== Вы не можете купить свой плот
 
 This player doesn't sell a plot
-== Этот игрок не продает участок
+== Этот игрок не продает плот
 
 You already have a plot
-== У вас уже есть участок
+== У вас уже есть плот
 
 The price you entered does not match the offer
 == Цена, которую вы ввели, не соответствует предложению
 
 Your IP address already owns one plot
-== Ваш IP-адрес уже владеет одним участком
+== Ваш IP-адрес уже владеет одним плотом
 
 Plot %d has been bought by '%s'
-== Участок %d был куплен игроком '%s'
+== Плот %d был куплен игроком '%s'
 
 You bought plot %d from %s
-== Вы купили участок %d у %s
+== Вы купили плот %d у %s
 
 %s bought your plot, the money is moved to your bank account
-== %s купил ваш участок, деньги переведены на ваш банковский счет
+== %s купил ваш плот, деньги переведены на ваш банковский счет
 
 Plot list
-== Список участков
+== Список плотов
 
 Buy from auction: '/plot buy <price> <playername>'
 == Купить на аукционе: '/plot buy <цена> <имя_игрока>'
@@ -442,52 +442,52 @@ Swap with offer: '/plot swap <playername>'
 == Обменяться с предложением: '/plot swap <имя_игрока>'
 
 List of all plot auctions and swap offers:
-== Список всех аукционов участков и предложений обмена:
+== Список всех аукционов плотов и предложений обмена:
 
 There are currently no auctions or swap offers
 == В настоящее время нет аукционов или предложений обмена
 
 You need a plot to use this command
-== Вам нужен участок, чтобы использовать эту команду
+== Вам нужен плот, чтобы использовать эту команду
 
 You can't sell your plot when being wanted
-== Вы не можете продать свой участок, когда находитесь в розыске
+== Вы не можете продать свой плот, когда находитесь в розыске
 
 You can only do auctions once a minute
 == Вы можете проводить аукционы только раз в минуту
 
 You already sell your plot
-== Вы уже продаете свой участок
+== Вы уже продаете свой плотп
 
 You need to enter a valid price
 == Вам нужно ввести действительную цену
 
 '%s' started an auction on plot %d for %d money (plot expires on %s)
-== '%s' начал аукцион на участок %d за %d денег (срок действия участка истекает %s)
+== '%s' начал аукцион на плот %d за %d моне (срок действия плота истекает %s)
 
 Use '/plot buy %d %s' to buy the plot
-== Используйте '/plot buy %d %s', чтобы купить участок
+== Используйте '/plot buy %d %s', чтобы купить плот
 
 You can't swap plots when being wanted
-== Вы не можете обменять участки, когда находитесь в розыске
+== Вы не можете обменять плот, пока находитесь в розыске
 
 You can't swap with yourself
 == Вы не можете обменяться с самим собой
 
 This player doesn't own a plot
-== У этого игрока нет участка
+== У этого игрока нет плота
 
 You can only swap once a minute
 == Вы можете обменяться только раз в минуту
 
 You swapped plots with '%s'
-== Вы обменялись участками с '%s'
+== Вы обменялись плотом с '%s'
 
 Offer to swap plots was sent to '%s'
-== Предложение обменяться участками было отправлено '%s'
+== Предложение обменяться плотом было отправлено '%s'
 
 '%s' has offered to swap plots with you, type '/plot swap %s' to swap
-== '%s' предложил обменяться участками с вами, введите '/plot swap %s', чтобы обменяться
+== '%s' предложил обменяться плотом с вами, введите '/plot swap %s', чтобы обменяться
 
 Page
 == Страница
@@ -511,10 +511,10 @@ Benefits:
 == - лицензия на тазер ('/taser')
 
 - Officers can taser a plot door of a wanted player to deal damage and destroy it
-== - Офицеры могут тазером повредить и уничтожить дверь участка разыскиваемого игрока
+== - Офицеры при помощи тазера могут повредить и уничтожить дверь участка разыскиваемого игрока
 
 - Taser will destroy plot objects of a wanted player
-== - Тазер уничтожит объекты участка разыскиваемого игрока
+== - Тазер может уничтожить объекты в плоте разыскиваемого игрока
 
 [GENERAL INFORMATION]
 == [ОБЩАЯ ИНФОРМАЦИЯ]
@@ -547,7 +547,7 @@ Map Designs
 == Дизайны карты
 
 If you have your dummy connected, you need to reconnect it after the design change so it can get back it's state.
-== Если у вас подключен манекен, вам нужно переподключить его после изменения дизайна, чтобы он вернулся в свое состояние.
+== Если у вас подключен дамми, вам нужно переподключить его после изменения дизайна, чтобы вы могли им управлять.
 
 You can set one of the following designs by using '/design <name>':
 == Вы можете установить один из следующих дизайнов, используя '/design <имя>':
@@ -607,10 +607,10 @@ Durák Profit
 == Прибыль в Дураке
 
 You need to be police level 2 to use this command
-== Вам нужно быть полицейским уровня 2, чтобы использовать эту команду
+== Вам нужно быть полицейским 2 уровня, чтобы использовать эту команду
 
 This player is a police officer
-== Этот игрок - офицер полиции
+== Этот игрок офицер полиции
 
 This player is a police helper already
 == Этот игрок уже помощник полиции
@@ -655,7 +655,7 @@ Police officers with level 3 or higher get a taser license.
 == Офицеры полиции с уровнем 3 или выше получают лицензию на тазер.
 
 The taser is a rifle that freezes players for a short time.
-== Тазер - это винтовка, которая замораживает игроков на короткое время.
+== Тазер - это пушка, которая замораживает игроков на короткое время.
 
 You can pick up the taser and taser batteries throughout the map.
 == Вы можете подобрать тазер и батареи для тазера по всей карте.
@@ -673,7 +673,7 @@ Freeze time: %.2f seconds
 == Время заморозки: %.2f секунд
 
 Taser shield
-== Щит тазера
+== Щит от тазера
 
 Drop taser battery: '/taser drop <amount>'
 == Выбросить батарею тазера: '/taser drop <количество>'
@@ -685,7 +685,7 @@ Drop taser battery: '/taser drop <amount>'
 == '%s' был заглушен на %d секунд
 
 Your taser shield has been set to %d%%. Use '/taser' to check later.
-== Ваш щит тазера был установлен на %d%%. Используйте '/taser' для проверки позже.
+== Ваш щит тазера теперь %d%%. Используйте '/taser' для проверки.
 
 You have been logged out by an admin
 == Вы были выведены из системы администратором
@@ -703,10 +703,10 @@ You were arrested for %d seconds
 == Вы были арестованы на %d секунд
 
 You lost your plot
-== Вы потеряли свой участок
+== Вы потеряли свой плот
 
 You are now owner of plot %d
-== Теперь вы владелец участка %d
+== Теперь вы владелец плота %d
 
 Objects
 == Объекты
@@ -739,13 +739,13 @@ Vote aborted
 == Голосование прервано
 
 Vote passed
-== Голосование пройдено
+== Голосование удалось
 
 Vote failed
 == Голосование не удалось
 
 Your plot is no longer subject to a search warrant and can no longer be destroyed
-== Ваш участок больше не является объектом ордера на обыск и больше не может быть разрушен
+== Ваш пло больше не является объектом ордера на обыск и больше не может быть разрушен
 
 '%s' entered and joined the game
 == '%s' вошел и присоединился к игре
@@ -760,7 +760,7 @@ This server has an initial chat delay, you will need to wait %d seconds before t
 == '%s' повторно присоединился к текущей сессии
 
 [WARNING] You need to reconnect your dummy after the design change is done, so it can get back it's old state.
-== [ПРЕДУПРЕЖДЕНИЕ] Вам нужно переподключить ваш манекен после завершения изменения дизайна, чтобы он вернулся в свое прежнее состояние.
+== [ПРЕДУПРЕЖДЕНИЕ] Вам нужно переподключить вашего дамми после завершения изменения дизайна, чтобы вы могли им управлять.
 
 '%s' has left the game (%s)
 == '%s' покинул игру (%s)
@@ -769,7 +769,7 @@ This server has an initial chat delay, you will need to wait %d seconds before t
 == '%s' покинул игру
 
 You do not have an ongoing conversation. Whisper to someone to start one
-== У вас нет текущего разговора. Шепните кому-нибудь, чтобы начать
+== У вас нет текущего разговора. Напишите кому-нибудь, чтобы начать
 
 '%s' changed name to '%s'
 == '%s' изменил имя на '%s'
@@ -781,13 +781,13 @@ No reason given
 == Причина не указана
 
 '%s' called vote to change server option '%s' (%s)
-== '%s' вызвал голосование для изменения опции сервера '%s' (%s)
+== '%s' начал голосование для изменения опции сервера '%s' (%s)
 
 '%s' isn't an option on this server
 == '%s' не является опцией на этом сервере
 
 '%s' called vote to change server option '%s'
-== '%s' вызвал голосование для изменения опции сервера '%s'
+== '%s' начал голосование для изменения опции сервера '%s'
 
 There's a %d second wait time between kick votes for each player please wait %d second(s)
 == Существует %d секунд ожидания между голосованиями на кик для каждого игрока, пожалуйста, подождите %d секунд(ы)
